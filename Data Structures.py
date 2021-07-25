@@ -21,6 +21,7 @@ print (str1[4]) #printing 5th character of the string
 print (str1*2) #printing the string twice  
 print (str1 + str2) #printing the concatenation of str1 and str2
 
+
 #Lists
 l  = [1, "hi", "python", True] 
 print (l[2:])  
