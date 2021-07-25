@@ -2,7 +2,7 @@
 """
 Created on Sat Jul 24 17:56:51 2021
 
-@author: OM
+@author: AKASH
 """
 
 #-----------------Apply Family of Functions--------------------------------
