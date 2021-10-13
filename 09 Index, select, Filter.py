@@ -53,6 +53,7 @@ df.iloc[2:5]
 # or
 df.iloc[2:5,]
 
+
 #select all rows starting from third row
 df.iloc[2:]
 # or
