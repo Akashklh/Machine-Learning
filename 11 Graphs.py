@@ -183,6 +183,7 @@ color_array = ['b'] * 15 + ['g'] * 17 + ['r'] * 15
 
 plt.scatter(weight, height, marker='*', c=color_array)
 
+
 plt.xlabel('weight', fontsize=16)
 plt.ylabel('height', fontsize=16)
 plt.title('grouped scatter plot - height vs weight',fontsize=20)
