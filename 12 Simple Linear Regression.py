@@ -46,6 +46,7 @@ y_pred = regressor.predict(X_test)
 from sklearn.metrics import r2_score
 r2_score(y_test,y_pred)
 
+
 #Create a DataFrame
 df1 = {'Actual Applicants':y_test,
 'Predicted Applicants':y_pred}
