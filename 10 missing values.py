@@ -104,6 +104,7 @@ info = info.drop_duplicates()
 print(info)
 
 
+
 emp = {"Name": ["Parker", "Smith", "William", "Parker"],  
 "Age": [21, 32, 29, 22]}  
 info = pd.DataFrame(emp) 
