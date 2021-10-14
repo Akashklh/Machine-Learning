@@ -71,5 +71,6 @@ fig, axes = plt.subplots(nrows = 1,ncols = 1,figsize = (4,4), dpi=300)
 cn=['0','1']
 tree.plot_tree(classifier,class_names=cn,filled = True)
 
+
 #if you want save figure, use savefig method in returned figure object.
 fig.savefig('Skilledge-Python-April-batch.png')
